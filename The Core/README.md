@@ -24,7 +24,7 @@
 * [23. Different Rightmost Bit](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/tree/main/The Core)
 * [24. Equal Pair of Bits](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/tree/main/The Core)
 * [25. Least Factorial](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/tree/main/The Core)
-* [26. Count Sum of Two Representations 2](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/tree/main/The Core)
+* [26. Count Sum of Two Representations 2](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/blob/main/The%20Core/26-Count%20Sum%20of%20Two%20Representations%202.kt)
 * [27. Magical Well](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/blob/main/The%20Core/27-Magical%20Well.kt)
 * [28. Lineup](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/blob/main/The%20Core/28-Lineup.kt)
 * [29. Addition Without Carrying](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/blob/main/The%20Core/29-Addition%20Without%20Carrying.kt)
