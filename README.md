@@ -1,3 +1,4 @@
 # CodeSignal-Solutions(*Kotlin*)
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D0BAQHKf4ignSzPnQ%2Fcompany-logo_200_200%2F0%2F1605049163898%3Fe%3D2147483647%26v%3Dbeta%26t%3Dvq9Q91ylHWTOV53uWZHUoT4pvDHDNRE3w4LYFrQDfw8&imgrefurl=https%3A%2F%2Fae.linkedin.com%2Fcompany%2Fcodesignal%3Ftrk%3Dpublic_profile_experience-item_profile-section-card_image-click&tbnid=dEAgihkF1OCYLM&vet=12ahUKEwj87Kqxrer4AhXJuKQKHbQoDAEQMygAegUIARCtAQ..i&docid=UeI0sZM0158g-M&w=200&h=200&q=codesignal&client=firefox-b-d&ved=2ahUKEwj87Kqxrer4AhXJuKQKHbQoDAEQMygAegUIARCtAQ" width="500" height="500">
 * [Intro](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/tree/main/Intro)
 * [The Core](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/tree/main/The%20Core)
