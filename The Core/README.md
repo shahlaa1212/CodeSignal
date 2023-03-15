@@ -1,4 +1,4 @@
-#  The Core![image](https://user-images.githubusercontent.com/74646502/178083772-8ceaa50a-44f2-4629-b743-ed72074480c4.svg)
+#  ![image](https://user-images.githubusercontent.com/74646502/178083772-8ceaa50a-44f2-4629-b743-ed72074480c4.svg) The Core
 
 * [01. Add Two Digits](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/blob/main/The%20Core/01%20-%20Add%20Two%20Digits%20.kt)
 * [02. Largest Number](https://github.com/shahlaa1212/CodeSignal-Solutions-in-kotlin/blob/main/The%20Core/02-Largest%20Number.kt)
