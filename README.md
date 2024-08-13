@@ -1,6 +1,6 @@
 <p align="center">
 <!--<img width ="300" height="300" src="https://github.com/shahlaa1212/Task_TokyoOlympicsApp_TheChance2/assets/74646502/1c522f07-3c7c-44fc-8499-0a2b976685e2.png"> -->
-  <img src="https://user-images.githubusercontent.com/74646502/178084308-0122071a-f5ec-4f94-91e9-663e26126d3b.png" width="400" height="400"> 
+  <img src="https://user-images.githubusercontent.com/74646502/178084308-0122071a-f5ec-4f94-91e9-663e26126d3b.png" width="450" height="400"> 
 </p>
 
 <p align="center">
